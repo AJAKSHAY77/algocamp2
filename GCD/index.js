@@ -7,4 +7,6 @@ function GCD(a,b) {
     }
     return ans;
 }
-console.log(GCD(11, 7));
+console.log(GCD(565,78));
+
+
