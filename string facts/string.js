@@ -11,3 +11,4 @@ let c = String("abc")
 let aj = "akhay"
 let kk = 20;
 console.log(aj.charAt(0));
+console.log(aj.length-1);
